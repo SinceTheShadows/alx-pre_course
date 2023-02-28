@@ -1,7 +1,7 @@
 
 #!/bin/bash
 <<<<<<< HEAD
-echo "ALXSchool"
+echo "ALX School"
 =======
-echo "ALXSchool"
+echo "ALX School"
 >>>>>>> origin/update_script
